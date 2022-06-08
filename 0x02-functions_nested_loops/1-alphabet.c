@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
-*main- print_alphabet a-z in lower case
+*print_alphabet - prints a-z in lower case
 *
-*return (0) if successful
+*return (0)  successful
 */
 
 void print_alphabet(void)
