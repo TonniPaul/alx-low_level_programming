@@ -9,9 +9,9 @@
 */
 void print_rev(char *s)
 {
-	int count = 0;
+	int count;
 
-	for (; count >= 0; count--)
+	for (count = 0; count >= 0; count--)
 	{
 		if (s[count] == '\0')
 			break;
