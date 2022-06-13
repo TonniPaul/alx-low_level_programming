@@ -3,10 +3,9 @@
 /**
 * rev_string - Reverses a string
 *
-* @s: accept string 
-
+* @s: accept string.
 *
-* Return: nothing
+* Return: nothing.
 */
 void rev_string(char *s)
 {
